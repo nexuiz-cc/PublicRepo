@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="TestTable">1741b47a972611108f78f9271153af4a</application>
+        <filter/>
+        <name>TestTables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_911114_whatsapp.testtable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 15:09:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df41b47a972611108f78f9271153af4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestTables</sys_name>
+        <sys_package display_value="WhatsAPP" source="x_911114_whatsapp">8411f03a972611108f78f9271153af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WhatsAPP">8411f03a972611108f78f9271153af00</sys_scope>
+        <sys_update_name>sys_ui_module_df41b47a972611108f78f9271153af4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-18 15:09:54</sys_updated_on>
+        <table>x_911114_whatsapp_testtable</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
