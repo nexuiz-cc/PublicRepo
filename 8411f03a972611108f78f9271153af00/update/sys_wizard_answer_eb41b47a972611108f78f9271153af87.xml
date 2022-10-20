@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>TestTable</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>TestTable</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 15:09:55</sys_created_on>
+        <sys_id>eb41b47a972611108f78f9271153af87</sys_id>
+        <sys_name>TestTable</sys_name>
+        <sys_package display_value="WhatsAPP" source="x_911114_whatsapp">8411f03a972611108f78f9271153af00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WhatsAPP">8411f03a972611108f78f9271153af00</sys_scope>
+        <sys_update_name>sys_wizard_answer_eb41b47a972611108f78f9271153af87</sys_update_name>
+        <table/>
+        <target_url>x_911114_whatsapp_testtable.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

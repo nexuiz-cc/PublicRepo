@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6b4674be972611108f78f9271153af2a" extends="task" label="whatsTable" max_length="40" name="x_911114_whatsapp_whatstable" type="collection"/>
+</database>

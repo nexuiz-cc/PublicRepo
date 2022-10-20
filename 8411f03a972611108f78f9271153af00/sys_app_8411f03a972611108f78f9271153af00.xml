@@ -29,9 +29,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 15:08:51</sys_created_on>
         <sys_id>8411f03a972611108f78f9271153af00</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-18 15:08:51</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

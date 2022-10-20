@@ -52,14 +52,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-18 15:09:55</sys_created_on>
-        <sys_id>6341b47a972611108f78f9271153af72</sys_id>
         <sys_name>x_911114_whatsapp_testtable</sys_name>
         <sys_package display_value="WhatsAPP" source="x_911114_whatsapp">8411f03a972611108f78f9271153af00</sys_package>
         <sys_policy/>
         <sys_scope display_value="WhatsAPP">8411f03a972611108f78f9271153af00</sys_scope>
         <sys_update_name>sys_dictionary_x_911114_whatsapp_testtable_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-18 15:09:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
